@@ -90,7 +90,7 @@ section h3 {
 }
 
 .activity-card .participants-list {
-  list-style-type: disc;
+  list-style-type: none;
   margin-left: 22px;
   margin-bottom: 0;
   color: #333;
